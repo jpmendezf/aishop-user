@@ -36,14 +36,14 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   if(GetPlatform.isWeb){
     await Firebase.initializeApp(options: const FirebaseOptions(
-apiKey: 'AIzaSyAng1nflfmFwYG-yOpiKCICd72JAWijNkw',
-  authDomain: 'aishop-391614.firebaseapp.com',
-  databaseURL: 'https://aishop-391614-default-rtdb.firebaseio.com',
-  projectId: 'aishop-391614',
-  storageBucket: 'aishop-391614.appspot.com',
-  messagingSenderId: '547518803970',
-  appId: '1:547518803970:web:9e4c191b3aeeccb758f71b',
-  measurementId: 'G-ZC18TZQPCC'
+  apiKey: "AIzaSyCSPZ0lu4FboFZE2FLlAtO_cWze69iYBtg",
+  authDomain: "aishopcrappdelivery.firebaseapp.com",
+  databaseURL: "https://aishopcrappdelivery-default-rtdb.firebaseio.com",
+  projectId: "aishopcrappdelivery",
+  storageBucket: "aishopcrappdelivery.appspot.com",
+  messagingSenderId: "330886512436",
+  appId: "1:330886512436:web:3fb3338d99f7f29a60af61",
+  measurementId: "G-W4KBH2GSX1"
     ));
   }
 

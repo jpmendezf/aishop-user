@@ -25,12 +25,12 @@
     </queries>
 
     <application
-        android:label="6amMart"
+        android:label="AIShopCR"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCaCSJ0BZItSyXqBv8vpD1N4WBffJeKhLQ"/>
+            android:value="AIzaSyC4SWePE9Jl53_DV1mGA9yHv73iPnZx_Mg"/>
 
         <activity
             android:name=".MainActivity"
